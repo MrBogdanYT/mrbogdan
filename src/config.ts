@@ -1,12 +1,12 @@
 export const SOCIALS = [
   {
     name: "GitHub",
-    link: "https://github.com/xHyroM/",
+    link: "https://github.com/MrBogdanYT/",
     icon: "github.svg",
   },
   {
     name: "Discord",
-    link: "https://s.xhyrom.dev/discord",
+    link: "https://discord.guster.ro",
     icon: "discord.svg",
   },
   {
